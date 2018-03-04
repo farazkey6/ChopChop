@@ -1,0 +1,64 @@
+demo:
+added nuke upgrade
+added readme file
+
+Beta 1: 1/26/2014 7:55am
+sprayed for bugs
+small tweaks
+added timer
+deleted unused codes
+
+Final Alpha: 1/23/2014 2:49am
+created the final battle
+engage method for boss
+Created Foxtrot(Boss)
+set altitude limit for player when boss arrives
+remove every other object
+
+Alpha 4: 1/22/2014 3:21pm
+maybe... ?
+fixed collision bug
+created enemy echo
+created cluster weapon (exclusive for enemies)
+added eagle
+improvised sounds
+added simple sounds (except laser)
+created cargo alert
+created gameOver screen
+created cargo physics and penalty
+created cargo generator
+added cargo
+changed path algorithem in run to a methOd "roam"
+created enemy delta
+changed alphas appereance
+created enemy charlie (appears after 30secs instead of alpha)
+Initialized map (drawMap method)
+
+Alpha 3: 1/19/2014 9:51pm
+modified bullet, rocket and laser for camera use
+fixed camera bug
+added shop GUI
+added camera
+modified values
+created laser
+laser initiated...
+created rocket
+added gun and shop gui
+added explosion on impact
+added enemy "Bravo"
+
+Alpha 2: 1/14/2014 8:20pm
+improved movements
+added care packages(called via killstreaks)
+health bar for player AND the enemies
+added life for player
+fixed enemy respawn
+changed buy zone
+set bullet limits
+
+Alpha 1: 1/13/2014 1:20am
+created two primary weapons: "pistol" and "shotgun"
+added first enemy chopper "Alpha"
+simulate helicopter falling
+added money
+added shop(buy bullets)
